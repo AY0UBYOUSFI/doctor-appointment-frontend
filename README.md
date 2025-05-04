@@ -43,6 +43,15 @@ Ensure you have the following installed on your machine:
 - **Node.js** (for any JavaScript dependencies, if applicable)
 
 ### Backend (Laravel)
+<img width="204" alt="image" src="https://github.com/user-attachments/assets/12e8420a-0779-4c44-a7d2-c276a69d469c" />
+<img width="201" alt="image" src="https://github.com/user-attachments/assets/9509f078-f2b2-4305-8a19-737d716fb01c" />
+<img width="202" alt="image" src="https://github.com/user-attachments/assets/1001dd3b-a5c3-4864-a0ca-2d64909339ad" />
+<img width="203" alt="image" src="https://github.com/user-attachments/assets/0d95dc5a-846f-4c5d-96e7-97b1b4cbb78a" />
+<img width="203" alt="image" src="https://github.com/user-attachments/assets/3a4a56e6-aa53-4b48-af19-d2e94f29376b" />
+<img width="204" alt="image" src="https://github.com/user-attachments/assets/a58e0115-25d0-495f-a681-a2c415846c6a" />
+<img width="203" alt="image" src="https://github.com/user-attachments/assets/3fb1e379-d285-4f57-a48d-1408749010bf" />
+<img width="205" alt="image" src="https://github.com/user-attachments/assets/c10223ad-f36d-4295-80d6-ff958b91c717" />
+
 
 1. Clone the repository:
 
